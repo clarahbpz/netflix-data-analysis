@@ -28,52 +28,43 @@ This project transforms raw dataset rows into actionable visual insights. It is 
 - **Environment:** Jupyter Notebook
 
 ## Project Structure
-
+```text
 netflix-data-analysis/
-
 ├── analysis.ipynb      
-
 ├── data/
-
 │   └── netflix_titles.csv     
-
 ├── app.py                     
-
 ├── requirements.txt           
-
 ├── .gitignore
-
 └── README.md
-
+```
 ## How to Run Locally
 
 #### Clone the repository:
-
-bash git clone [https://github.com/clarahbpz/netflix-data-analysis.git](https://github.com/clarahbpz/netflix-data-analysis.git)
-
+```bash 
+git clone [https://github.com/clarahbpz/netflix-data-analysis.git](https://github.com/clarahbpz/netflix-data-analysis.git)
+```
 #### Navigate to the project directory:
-
+```bash
 cd netflix-data-analysis
-
+```
 #### Install the required dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 #### Launch the Streamlit application:
-
+```bash
 streamlit run app.py
-
+```
 ## Project Purpose
 
 This project was developed as a portfolio piece to demonstrate a complete data workflow. It applies engineering principles to data extraction, cleaning, and visualization, culminating in the deployment of a user-friendly, production-ready web application.
 
 ## Future Improvements
 
-Integrate the TMDb API to fetch real-time ratings and poster images.
+- Integrate the TMDb API to fetch real-time ratings and poster images.
+- Develop a Machine Learning-based recommendation engine for similar titles.
+- Expand the dataset to compare Netflix trends with other streaming platforms (e.g., Amazon Prime, Disney+).
 
-Develop a Machine Learning-based recommendation engine for similar titles.
-
-Expand the dataset to compare Netflix trends with other streaming platforms (e.g., Amazon Prime, Disney+).
-
-Author: Clara Hilbert Polizel
+**Author:** Clara Hilbert Polizel
 
