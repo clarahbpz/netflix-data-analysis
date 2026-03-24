@@ -30,10 +30,8 @@ This project transforms raw dataset rows into actionable visual insights. It is 
 ## 📁 Project Structure
 
 netflix-data-analysis/
-│
-├── analysis/.ipynb      
+├── analysis.ipynb      
 ├── data/
-
 │   └── netflix_titles.csv     
 ├── app.py                     
 ├── requirements.txt           
