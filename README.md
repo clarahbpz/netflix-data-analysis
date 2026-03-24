@@ -1,6 +1,6 @@
 # 🎬 Netflix Content Analysis Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](SEU_LINK_DO_STREAMLIT_AQUI)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://netflix-data-analysis-49oyrd3m2wsfdpaqjec3th.streamlit.app/)
 
 An end-to-end data analysis project featuring an interactive web dashboard and a comprehensive Exploratory Data Analysis (EDA) notebook. Built to explore, filter, and visualize trends within the Netflix catalog of movies and TV shows.
 
@@ -42,9 +42,10 @@ netflix-data-analysis/
 ## ▶️ How to Run Locally
 
 1. Clone the repository:
+
 bash git clone [https://github.com/SEU_USUARIO_DO_GITHUB/netflix-data-analysis.git](https://github.com/SEU_USUARIO_DO_GITHUB/netflix-data-analysis.git)
 
-2. Navigate to the project directory:
+4. Navigate to the project directory:
 
 cd netflix-data-analysis
 
@@ -68,5 +69,7 @@ Develop a Machine Learning-based recommendation engine for similar titles.
 
 Expand the dataset to compare Netflix trends with other streaming platforms (e.g., Amazon Prime, Disney+).
 
-Author: Clara Hilbert Polizel
+
+### Author: 
+Clara Hilbert Polizel
 
