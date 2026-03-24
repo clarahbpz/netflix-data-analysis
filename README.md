@@ -43,7 +43,7 @@ netflix-data-analysis/
 
 1. Clone the repository:
 
-bash git clone [https://github.com/SEU_USUARIO_DO_GITHUB/netflix-data-analysis.git](https://github.com/SEU_USUARIO_DO_GITHUB/netflix-data-analysis.git)
+bash git clone [https://github.com/clarahbpz/netflix-data-analysis.git](https://github.com/clarahbpz/netflix-data-analysis.git)
 
 4. Navigate to the project directory:
 
