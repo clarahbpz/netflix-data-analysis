@@ -29,7 +29,6 @@ This project transforms raw dataset rows into actionable visual insights. It is 
 
 ## 📁 Project Structure
 
-```text
 netflix-data-analysis/
 │
 ├── analysis/.ipynb      
@@ -43,7 +42,7 @@ netflix-data-analysis/
 ## ▶️ How to Run Locally
 
 1. Clone the repository:
-```bash git clone [https://github.com/SEU_USUARIO_DO_GITHUB/netflix-data-analysis.git](https://github.com/SEU_USUARIO_DO_GITHUB/netflix-data-analysis.git)
+bash git clone [https://github.com/SEU_USUARIO_DO_GITHUB/netflix-data-analysis.git](https://github.com/SEU_USUARIO_DO_GITHUB/netflix-data-analysis.git)
 
 2. Navigate to the project directory:
 
